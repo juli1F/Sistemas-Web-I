@@ -1,0 +1,16 @@
+php
+
+criar pasta aqui C:\xampp\htdocs
+nome da pasta: aula1php
+colocar no vscode
+teste.php(file)
+o código dia 29/05/26:
+
+<?php
+echo"Olá Mundo";/*Aparece na tela */
+echo "<br>";
+$nome = "Juliana";/*Guarda o nome*/ 
+echo $nome . "<br>";
+?>
+
+pra ver na barra de pesquisa do google: locahost/nomedapasta/nomedafile
